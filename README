@@ -1,0 +1,4 @@
+Easily illustrates how PIT works. Just clone, and run
+
+    mvn org.pitest:pitest-maven:mutationCoverage
+
