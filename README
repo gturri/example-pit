@@ -1,3 +1,9 @@
+This repo has moved to https://codeberg.org/gturri/example-pit
+
+
+----------------------
+
+
 Easily illustrates how PIT works. Just clone, and run
 
     mvn org.pitest:pitest-maven:mutationCoverage
